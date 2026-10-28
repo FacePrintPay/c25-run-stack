@@ -11,3 +11,5 @@ echo "✅ STACK RUNNING"
 echo "🔗 Node API    → http://127.0.0.1:3000"
 echo "🔗 Python API  → http://127.0.0.1:8000"
 wait
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=run_stack.sh
